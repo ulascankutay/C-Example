@@ -15,7 +15,7 @@ int main() {
     int boyut = strlen(metin);
 
     printf("%d",boyut);
-    printf("metin boyutu : %d ",adet);
+    printf("metin boyutu :  %d ",adet);
 
     return 0;
 }
