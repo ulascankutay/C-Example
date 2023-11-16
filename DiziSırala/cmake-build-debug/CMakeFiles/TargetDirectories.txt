@@ -1,0 +1,3 @@
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/DiziSırala/cmake-build-debug/CMakeFiles/DiziSrala.dir
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/DiziSırala/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/DiziSırala/cmake-build-debug/CMakeFiles/rebuild_cache.dir

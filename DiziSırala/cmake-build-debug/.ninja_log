@@ -1,0 +1,11 @@
+# ninja log v5
+0	111	7218392484256220	CMakeFiles/DiziSrala.dir/main.c.obj	5dc2185f16da94c7
+112	248	7218392485562720	DiziSrala.exe	801dc50fbb2c902e
+4	114	7218392613218545	CMakeFiles/DiziSrala.dir/main.c.obj	5dc2185f16da94c7
+114	245	7218392614475512	DiziSrala.exe	801dc50fbb2c902e
+4	112	7218393036864273	CMakeFiles/DiziSrala.dir/main.c.obj	5dc2185f16da94c7
+113	249	7218393038180329	DiziSrala.exe	801dc50fbb2c902e
+4	109	7218393154584729	CMakeFiles/DiziSrala.dir/main.c.obj	5dc2185f16da94c7
+110	251	7218393155921170	DiziSrala.exe	801dc50fbb2c902e
+4	103	7218393813509314	CMakeFiles/DiziSrala.dir/main.c.obj	5dc2185f16da94c7
+104	233	7218393814736048	DiziSrala.exe	801dc50fbb2c902e

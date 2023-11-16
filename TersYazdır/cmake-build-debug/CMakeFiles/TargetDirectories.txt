@@ -1,0 +1,3 @@
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/TersYazdır/cmake-build-debug/CMakeFiles/TersYazdr.dir
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/TersYazdır/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/TersYazdır/cmake-build-debug/CMakeFiles/rebuild_cache.dir
