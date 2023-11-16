@@ -1,0 +1,3 @@
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/UzunlukBul/cmake-build-debug/CMakeFiles/UzunlukBul.dir
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/UzunlukBul/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ulaş Kutay/Documents/GitRepo/C-Example/UzunlukBul/cmake-build-debug/CMakeFiles/rebuild_cache.dir
